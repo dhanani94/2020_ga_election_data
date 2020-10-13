@@ -1,6 +1,8 @@
 # 2020_ga_election_data
 
-To run, please use python 3.8 and jupyter notebook 
+To run, please use python 3.8 and jupyter notebook
+You might need to add this line to get some plugins working if you are using anaconda. `conda config --add channels conda-forge`
+
 
 The data used is from the following sources:
 * [population_data](https://www.indexmundi.com/facts/united-states/quick-facts/georgia/population)
